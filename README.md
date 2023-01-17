@@ -1,5 +1,9 @@
 # All MY `README` ARE AT THE TOP
 
+## HOW TO INSTALL `JSON-SERVER` ON YOUR LOCAL COMPUTER
+
+https://docs.google.com/document/d/1FkGCp8PwgwmOftCH5nmTh5GaJ_KaDbn5GoKNvtxBNqw/edit?usp=sharing
+
 ## AFTER CLONEING THIS PROJECT
 
 In the project directory, you can run:
